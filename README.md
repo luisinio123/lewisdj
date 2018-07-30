@@ -1,2 +1,0 @@
-# lewisdj
-ejemplo de pagina
